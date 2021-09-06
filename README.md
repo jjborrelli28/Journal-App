@@ -1,3 +1,7 @@
 # JournalApp
 
-### A journal application made with React and Redux
+### App: https://journal-app-jjborrelli.netlify.app/
+
+---
+
+### My LinkedIn: https://www.linkedin.com/in/jjborrelli/
